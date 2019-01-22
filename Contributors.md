@@ -17,7 +17,8 @@
 - Parag Kanodia
 - Affan Aslam
 - [Sabás Mendívil](https://github.com/sabasm)
-- [Boone Chen]
+- [Boone Che
+-  [Max Esser] (https://github.com/max-esser)
 - [Yezy Ilomo](https://github.com/yezyilomo)
 - [Bernard Gonzales](https://github.com/bernardgonzales)
 - [Keerthan Ekbote](https://github.com/saiskee)
